@@ -10,5 +10,5 @@ I maintain multiple large open source projects including [Laravel Notifcation Ch
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=atymic&count_private=true" /> 
 </a>
 <a href="https://github.com/atymic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atymic&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atymic" />
 </a>
