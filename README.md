@@ -6,11 +6,11 @@
   </a>
 </p>
 
-👉 Full-stack dev working full time in the startup space
+🔨  Trying to build profitable SaaS projects with Laravel & Vue
 
-👉 Freelancing on the side 
+✍️ Sharing my journey along the way
 
-👉 Building side projects with the time left over
+💸 $0 MMR so far
 
 
 ![](https://komarev.com/ghpvc/?username=loonpwn)
