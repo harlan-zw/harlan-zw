@@ -6,6 +6,8 @@
   </a>
 </p>
 
+👨‍💻 Working full time for myself 
+
 🔨  Trying to build profitable SaaS projects with Laravel & Vue
 
 ✍️ Sharing my journey along the way
