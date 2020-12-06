@@ -12,8 +12,6 @@
 
 ✍️ Sharing my journey along the way
 
-💸 $0 MMR so far
-
 
 ![](https://komarev.com/ghpvc/?username=loonpwn)
 
