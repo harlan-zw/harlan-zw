@@ -6,11 +6,11 @@
   </a>
 </p>
 
-👨‍💻 Working full time for myself 
+👨‍💻 Working for myself
 
-🔨  Trying to build profitable SaaS projects with Laravel & Vue
+🔨 Contributing to Open Source: Windi CSS / Nuxt.js / Laravel
 
-✍️ Sharing my journey along the way
+✍️ Sharing what I learn
 
 
 ![](https://komarev.com/ghpvc/?username=harlan-zw)
