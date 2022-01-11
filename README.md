@@ -1,24 +1,13 @@
-### Hi 👋
-
-<p>
-  <a href="https://twitter.com/harlan_zw">
-    <img alt="Twitter" src="https://img.shields.io/twitter/follow/harlan_zw">
-  </a>
-</p>
-
-👨‍💻 Working for myself
-
-🔨 Contributing to Open Source: Windi CSS / Nuxt.js / Laravel
-
-✍️ Sharing what I learn
+<table>
+<tbody>
+<td align="center">
+<img width="2000" height="0" /><br>
+  <samp>Twitter ▪ <a href="harlanzw.com">@harlan_zw</a></samp><br>
+<samp>Personal Site ▪ <a href="harlanzw.com">harlanzw.com</a></samp><br>
+<sub>Consider  <a href="https://github.com/sponsors/harlan-zw">sponsoring</a> me if you like my work 💖</sub><br>
+<img width="2000" height="0" />
+</td>
+</tbody>
+</table>
 
 
-![](https://komarev.com/ghpvc/?username=harlan-zw)
-
-
-<a href="https://github.com/harlan-zw">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harlan-zw&count_private=true" /> 
-</a>
-<a href="https://github.com/harlan-zw">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harlan-zw" />
-</a>
