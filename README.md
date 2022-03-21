@@ -11,3 +11,13 @@
 </table>
 
 
+<table cellspacing="0" cellpadding="0" style="border: none" border="0">
+<tbody>
+<td align="center" border="none">
+  <img src="https://nuxtjs.org/design-kit/colored-logo.svg" alt="Nuxt" width="30"> 
+</td>
+<td align="center">
+    Sponsored By <a href="https://nuxtjs.org/">Nuxt.js</a>
+  </td>
+</tbody>
+</table>
