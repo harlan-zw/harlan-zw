@@ -17,7 +17,7 @@
   <img src="https://nuxtjs.org/design-kit/colored-logo.svg" alt="Nuxt" width="30"> 
 </td>
 <td align="center">
-    Sponsored By <a href="https://nuxtjs.org/">Nuxt.js</a>
+    Special Sponsor: <a href="https://nuxtlabs.com/">Nuxt Labs</a>
   </td>
 </tbody>
 </table>
