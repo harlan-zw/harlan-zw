@@ -10,14 +10,4 @@
 </tbody>
 </table>
 
-
-<table cellspacing="0" cellpadding="0" style="border: none" border="0">
-<tbody>
-<td align="center" border="none">
-  <img src="https://nuxtjs.org/design-kit/colored-logo.svg" alt="Nuxt" width="30"> 
-</td>
-<td align="center">
-    Special Sponsor: <a href="https://nuxtlabs.com/">Nuxt Labs</a>
-  </td>
-</tbody>
-</table>
+  <img src="https://raw.githubusercontent.com/harlan-zw/static/main/sponsors.svg">
