@@ -24,7 +24,7 @@ Core team [@nuxt](https://github.com/nuxt) · [@unjs](https://github.com/unjs) �
 
 ### AI Tooling
 
-- ☁️ [mdream](https://github.com/harlan-zw/mdream) — The fastest HTML to Markdown converter. Optimized for LLMs, supports streaming. `855 ★` `19k downloads/mo`
+- ☁️ [mdream](https://github.com/harlan-zw/mdream) — The fastest HTML to Markdown converter on GitHub. Optimized for LLMs, supports streaming. `855 ★` `19k downloads/mo`
 - 🧩 [skilld](https://github.com/harlan-zw/skilld) — Generate AI agent skills from your npm dependencies. `233 ★`
 - 🔎 [retriv](https://github.com/harlan-zw/retriv) — Tiny local-first hybrid search for docs and TypeScript.
 
