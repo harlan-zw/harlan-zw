@@ -10,7 +10,7 @@ Core team [@nuxt](https://github.com/nuxt) · [@unjs](https://github.com/unjs) �
 
 ### Web Infrastructure
 
-- 🧠 [Unhead](https://github.com/unjs/unhead) — The full stack `<head>` package for any framework. `1.2k ★` `7.8M+ downloads/mo`
+- 🌐 [Unhead](https://github.com/unjs/unhead) — The full stack `<head>` package powering the web. `1.2k ★` `7.8M+ downloads/mo`
 
 ### Nuxt Modules
 
