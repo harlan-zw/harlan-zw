@@ -30,7 +30,7 @@ Core team [@nuxt](https://github.com/nuxt) · [@unjs](https://github.com/unjs) �
 
 ### Tooling
 
-- ⚡ [Unlighthouse](https://github.com/unjs/unlighthouse): Run Google Lighthouse across your entire site. `4.4k ★` `81k downloads/mo`
+- ⚡ [Unlighthouse](https://github.com/harlan-zw/unlighthouse): Run Google Lighthouse across your entire site. `4.4k ★` `81k downloads/mo`
 - 📊 [request-indexing](https://github.com/harlan-zw/request-indexing): Find missing pages on Google and request indexing via API. `384 ★`
 
 ---
